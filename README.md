@@ -14,7 +14,9 @@ This repository is a decentralized hub for Web3 learning resources. We believe i
 
 Here are some of the books available for download in this repository:
 
-1. Fundamentals Of Smart Contract Security - ![Screenshot_2023-11-14-22-44-25-817_org readera-edit](https://github.com/c0nf193nc3/Web3_Books/assets/119417999/e72b655b-ae2a-4bda-ae06-fe0a9e79d787)
+* **Fundamentals Of Smart Contract Security -**
+
+![1699983308440](https://github.com/c0nf193nc3/Web3_Books/assets/119417999/12c3b9d3-77d6-406e-b319-d502310470df)
 
 
 Please note that the book covers are for illustrative purposes only. The actual book cover may vary.
@@ -49,4 +51,4 @@ If you have any questions or suggestions, please open an issue. We'd love to hea
 
 
 
-Happy learning and welcome to the future of decentralized education! 🚀
+# Happy learning and welcome to the future of decentralized education! 🚀
