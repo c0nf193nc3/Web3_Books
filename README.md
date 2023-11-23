@@ -18,6 +18,10 @@ Here are some of the books available for download in this repository:
 
 ![1699983308440](https://github.com/c0nf193nc3/Web3_Books/assets/119417999/12c3b9d3-77d6-406e-b319-d502310470df)
 
+* **Blockchain And Crypto Currency -**
+
+![IMG_20231123_131839](https://github.com/c0nf193nc3/Web3_Books/assets/119417999/8f20da12-e9b5-4677-8796-bf3148096aca)
+
 
 Please note that the book covers are for illustrative purposes only. The actual book cover may vary.
 
