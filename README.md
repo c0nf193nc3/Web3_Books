@@ -22,6 +22,10 @@ Here are some of the books available for download in this repository:
 
 ![IMG_20231123_131839](https://github.com/c0nf193nc3/Web3_Books/assets/119417999/8f20da12-e9b5-4677-8796-bf3148096aca)
 
+* **Serious Cryptography -**
+
+![IMG_20231214_225859](https://github.com/c0nf193nc3/Web3_Books/assets/119417999/c5365dee-2d38-4f7d-9ea2-7d8eb4359e60)
+
 
 Please note that the book covers are for illustrative purposes only. The actual book cover may vary.
 
